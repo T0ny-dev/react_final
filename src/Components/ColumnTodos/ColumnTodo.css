@@ -1,0 +1,44 @@
+.App__Todos {
+  background-color: #DCDEE6;
+}
+
+.App___Todos__title {
+  display: flex;
+  justify-content: center;
+}
+
+.App___Todos__title h2 {
+  color: #434A66;
+}
+
+.App___Todos__title  h2::before {
+  font-family: "Font Awesome 5 Free"; 
+  font-weight: 900; 
+  content: "\f03a";
+  margin-right: 10px;
+  color:#434A66;
+}
+
+.App__Toods__list {
+  display:flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.Todo {
+  background-color: #fff;
+  padding: 15px 15px;
+  border-radius: 10px;
+  width: 80%;
+}
+
+.Todo h5 {
+  margin: 0;
+}
+
+.Todo p {
+  font-size: 14px;
+  margin: 0;
+}
