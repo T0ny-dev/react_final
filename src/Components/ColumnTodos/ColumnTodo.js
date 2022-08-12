@@ -2,7 +2,8 @@ import React from 'react';
 import './ColumnTodo.css'
 
 
-function ColumnTodo(): JSX.Element {
+
+function ColumnTodo() {
   return (
     <div className='App__Todos'>
       <div className='App___Todos__title'>
@@ -18,7 +19,6 @@ function ColumnTodo(): JSX.Element {
           <p>read documentation</p>
         </div>
       </div>
-      
     </div>
   );
 }

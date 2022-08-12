@@ -28,7 +28,6 @@ const Skills = () => {
           <span>HTML</span>
           <span>CSS</span>
           <span>Sass</span>
-          <span>React</span>
           <span>Boostrap</span>
           <span>SEO</span>
         </div>

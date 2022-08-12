@@ -70,7 +70,7 @@ Nav li {
   margin-right: 25px;
 }
 
-#aboutMe::before {
+#Todo::before {
   font-family: "Font Awesome 5 Free"; 
   font-weight: 900; 
   content: "\f058";

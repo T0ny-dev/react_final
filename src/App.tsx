@@ -5,6 +5,7 @@ import ColumnTodo from './Components/ColumnTodos/ColumnTodo';
 import logo from './asset/bootcamp.webp'
 import Home from './Components/Pages/Home/Home'
 import Skills from './Components/Pages/Skills/Skills';
+import CrudApp from './Components/CrudApp/CrudApp';
 
 
 function App():JSX.Element {
@@ -23,6 +24,7 @@ function App():JSX.Element {
             <ul>
               <li><Link to='/' className='App__link' id='dashboard'>Dashboard</Link></li>
               <li><Link to='/skills' className='App__link' id='skills'>Skills</Link></li>
+              <li><Link to='/Todos' className='App__link' id='Todo'>My Todo's</Link></li>
             </ul>
           </nav>
         </div>
@@ -30,6 +32,7 @@ function App():JSX.Element {
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/skills' element={<Skills/>}/>
+        <Route path='/Todos' element={<CrudApp/>}/>
       </Routes>
       <ColumnTodo/>
     </div>

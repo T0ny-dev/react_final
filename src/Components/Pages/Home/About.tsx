@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 import terminal from './img/terminals.png'
 
-const About = () => {
+const About = ():JSX.Element => {
   return (
     <div className='About'>
       <div className='About__profile'>
