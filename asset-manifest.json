@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/antonionce/react_final/static/css/main.a13ff7b2.css",
+    "main.js": "/antonionce/react_final/static/js/main.c8a6e6ca.js",
+    "static/js/787.a2a4650b.chunk.js": "/antonionce/react_final/static/js/787.a2a4650b.chunk.js",
+    "static/media/avatar2.jpg": "/antonionce/react_final/static/media/avatar2.9d9f1c35907cc0e687c9.jpg",
+    "static/media/pokemondex.png": "/antonionce/react_final/static/media/pokemondex.e269791ace2860df5a24.png",
+    "static/media/reddit.webp": "/antonionce/react_final/static/media/reddit.d4c152822c7de136303b.webp",
+    "static/media/terminals.png": "/antonionce/react_final/static/media/terminals.b33beb9b3877d90c8cdf.png",
+    "static/media/bootcamp.webp": "/antonionce/react_final/static/media/bootcamp.32fa69660832a1ec7437.webp",
+    "index.html": "/antonionce/react_final/index.html",
+    "main.a13ff7b2.css.map": "/antonionce/react_final/static/css/main.a13ff7b2.css.map",
+    "main.c8a6e6ca.js.map": "/antonionce/react_final/static/js/main.c8a6e6ca.js.map",
+    "787.a2a4650b.chunk.js.map": "/antonionce/react_final/static/js/787.a2a4650b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13ff7b2.css",
+    "static/js/main.c8a6e6ca.js"
+  ]
+}
